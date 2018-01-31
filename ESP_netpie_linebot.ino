@@ -6,9 +6,9 @@ const char* ssid     = "your SSID"; //change this to your SSID
 const char* password = "your PASSWORD"; //change this to your PASSWORD
 
 const char* host = "http://esp-tte/bot.php";//change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
-#define APPID   "your APPID"     //change this to your APPID
-#define KEY     "your KEY"     //change this to your KEY
-#define SECRET  "your SECRET"     //change this to your SECRET
+#define APPID   "1560317016"     //change this to your APPID
+#define KEY     "Uf9b5e4e79934cf5749b2974121740fe5"     //change this to your KEY
+#define SECRET  "bd311facb007ed6303c4456907df488e"     //change this to your SECRET
 
 #define ALIAS   "NodeMCU1" //set name of drvice
 #define TargetWeb "switch" //set target name of web
